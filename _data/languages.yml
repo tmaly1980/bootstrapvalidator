@@ -52,6 +52,9 @@
 - name:   Hebrew
   file:   he_IL.js
   author: yakidahan
+- name:   Hindi
+  file:   hi_IN.js
+  author: gladiatorAsh
 - name:   Hungarian
   file:   hu_HU.js
   author: blackfyre
